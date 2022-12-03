@@ -1,16 +1,7 @@
-// cc32d9 | EOS Amsterdam, [03.12.2022 01: 32]
 // 1. Press button A -> light on.Press A again -> light ofg
-
-// cc32d9 | EOS Amsterdam, [03.12.2022 01: 32]
 // 2. Double chick A -> light on or off
-
-// cc32d9 | EOS Amsterdam, [03.12.2022 01: 33]
 // 3. If the period between clicks is longer than 2 seconds, ignore
-
-// cc32d9 | EOS Amsterdam, [03.12.2022 01: 36]
 // 4. React on 5 clicks in a row, with period within 1s
-
-
 
 let clickCounter = 0;
 let lastClick = 0;
